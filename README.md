@@ -1,1 +1,1 @@
-🚀 My first Cursor project, a Space Invaders clone, becasue of course
+🚀 My first Cursor project, a Space Invaders clone, because of course
